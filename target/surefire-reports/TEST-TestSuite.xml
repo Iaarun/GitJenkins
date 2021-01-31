@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="2.769" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\JavaProject\GitJenkins\target\test-classes;D:\JavaProject\GitJenkins\target\classes;C:\Users\thezn\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\thezn\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\thezn\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.9\bin"/>
+    <property name="sun.java.command" value="C:\Users\thezn\AppData\Local\Temp\surefire840431377558274741\surefirebooter15918904243194802282.jar C:\Users\thezn\AppData\Local\Temp\surefire840431377558274741 2021-01-31T13-38-19_892-jvmRun1 surefire13103926768091878686tmp surefire_02721099537825174227tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\JavaProject\GitJenkins\target\test-classes;D:\JavaProject\GitJenkins\target\classes;C:\Users\thezn\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar;C:\Users\thezn\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\thezn\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\thezn"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-10-20"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.9"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\JavaProject\GitJenkins"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\thezn\AppData\Local\Temp\surefire840431377558274741\surefirebooter15918904243194802282.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.9+7-LTS"/>
+    <property name="user.name" value="thezn"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\thezn\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\thezn\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.9"/>
+    <property name="user.dir" value="D:\JavaProject\GitJenkins"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.9\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk-11.0.9\bin;D:\projectjars\apache-maven-3.6.3\bin;C:\Python37;C:\Python37\DLLs;C:\Python37\Lib;C:\Python37\libs;C:\Python37\Scripts;D:\pythonworkspace\EcommerceProject;D:\pythonworkspace\learnPython;D:\pythonworkspace\nopEcommerceProject;;C:\Python37;C:\Python37\Scripts;C:\Program Files\nodejs\;D:\projectjars\allure-2.13.4\bin;C:\Program Files\Git\cmd;C:\Python37\Scripts\;C:\Python37\;C:\Users\thezn\AppData\Local\Microsoft\WindowsApps;C:\Users\thezn\AppData\Roaming\npm;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.9+7-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="logintest" classname="testpackages.LoginTest" time="0.002">
+    <system-out><![CDATA[[TestNGContentHandler] [WARN] It is strongly recommended to add "<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >" at the top of your file, otherwise TestNG may fail or not work as expected.
+Launching browser
+Login test 
+]]></system-out>
+  </testcase>
+  <testcase name="logoTest" classname="testpackages.LoginTest" time="0.01">
+    <system-out><![CDATA[Launching browser
+Logo test 
+]]></system-out>
+  </testcase>
+</testsuite>
