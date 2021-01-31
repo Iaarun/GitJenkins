@@ -35,6 +35,12 @@ public class LoginTest {
 		System.out.println("Test1");
 		Assert.assertTrue(true);
 	}
+	
+	@Test
+	public void test2() {
+		System.out.println("Test2");
+		Assert.assertTrue(true);
+	}
 
 	@AfterMethod
 	public void tearDown() {
