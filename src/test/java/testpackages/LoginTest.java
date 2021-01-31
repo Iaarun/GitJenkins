@@ -23,6 +23,12 @@ public class LoginTest {
 		Assert.assertTrue(true);
 	}
 	
+	@Test
+	public void titleTest() {
+		System.out.println("Title test ");
+		Assert.assertTrue(true);
+	}
+	
 	public void tearDown() {
 		System.out.println("Closing browser");
 	}
