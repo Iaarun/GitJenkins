@@ -23,7 +23,17 @@ public class LoginTest {
 		System.out.println("Logo test ");
 		Assert.assertTrue(true);
 	}
+<<<<<<< HEAD
 	@AfterMethod
+=======
+	
+	@Test
+	public void titleTest() {
+		System.out.println("Title test ");
+		Assert.assertTrue(true);
+	}
+	
+>>>>>>> 0532ac6865f12808433d267a5209b5494f7404c7
 	public void tearDown() {
 		System.out.println("Closing browser");
 	}
